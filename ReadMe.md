@@ -16,13 +16,13 @@ I love building clean, minimal, and effective digital experiences — whether th
 
 ## 🛠️ Tech & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,adobeillustrator&theme=dark" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🎨 [**Boutique Pilates Club**](https://github.com/akalya-t/logodesigns) – Brand identity + minimal website  
+- 🎨 [**Boutique Pilates Club**](https://github.com/akalya-t/logodesigns/tree/main/logos) – Brand identity + minimal website  
 - ⚡ [**Weather App (React)**](      ) – Real-time weather updates  
 - 🖋️ [**Signature Meat**](https://github.com/akalya-t/project2) – Logo + digital branding project  
 
