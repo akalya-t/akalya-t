@@ -22,9 +22,9 @@ I love building clean, minimal, and effective digital experiences.
 ---
 
 ## 📌 Featured Projects
-- 🎨 [**Boutique Pilates Club**](https://github.com/akalya-t/logodesigns/tree/main/logos) – Brand identity + minimal website  
+- 🎨 [**Boutique Pilates Club**](https://github.com/akalya-t/logo_designs/tree/main/brand1) – Brand identity + minimal website  
 - ⚡ [**Weather App (React)**](      ) – Real-time weather updates  
-- 🖋️ [**Signature Meat**](https://github.com/akalya-t/project2) – Logo + digital branding project  
+- 🖋️ [**Signature Meat**](https://github.com/akalya-t/logo_designs/tree/main/brand4) – Logo + digital branding project  
 
 *(more design + dev projects on the way 🚀)*  
 
