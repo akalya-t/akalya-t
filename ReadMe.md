@@ -16,7 +16,7 @@ Based in India. English and Tamil.
 
 [![MEDIUM](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akalya-t)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akalya-thirumurugan/)
-[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalyaofficial271@gmail.com)
 
 ---
 
